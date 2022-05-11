@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality_Assessment_Tool", "Quality_Assessment_Tool\Quality_Assessment_Tool.csproj", "{C9418E10-A29F-4D0D-9CEF-15331AEE00E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9418E10-A29F-4D0D-9CEF-15331AEE00E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9418E10-A29F-4D0D-9CEF-15331AEE00E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9418E10-A29F-4D0D-9CEF-15331AEE00E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9418E10-A29F-4D0D-9CEF-15331AEE00E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C883822E-87CA-4EAC-84E7-DC1FFBF188B4}
+	EndGlobalSection
+EndGlobal
