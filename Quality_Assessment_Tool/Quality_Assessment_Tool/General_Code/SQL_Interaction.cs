@@ -10,13 +10,13 @@ namespace Quality_Assessment_Tool
 {
     class SQL_Interaction
     {
-        public String SQL_Server = "10.188.81.47, 1433";
-        public String SQL_Database = "ABRData";
+        public String SQL_Server = "TestServer";
+        public String SQL_Database = "TestDatabase";
         private String SQL_Connection_String =
             "Data Source=WSCSQL95; "
             + "Initial Catalog=ABRData; "
-            + "User ID=excelconnect; "
-            + "Password=excelconnect; ";
+            + "User ID=test; "
+            + "Password=test; ";
             //+ "Trusted_Connection=sspi;";
 
         // Function to Return Int from SQL Query //
